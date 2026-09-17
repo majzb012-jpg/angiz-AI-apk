@@ -1,0 +1,6 @@
+{
+  "name": "أنجز AI",
+  "description": "تطبيق ذكاء اصطناعي شامل ومتكامل - أها، داير تنجز شنو؟",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
